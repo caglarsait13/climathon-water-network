@@ -1,0 +1,101 @@
+Fabrika_ID,Gercek_Isim,Sektor,OSB_Bolgesi,Enlem,Boylam
+F_001,Kordsa Teknik Tekstil A.Ş.,Tekstil,GOSB_Karma,40.824484,29.434032
+F_002,Brisa Bridgestone Sabancı,Kimya,GOSB_Karma,40.808238,29.430661
+F_003,Sarkuysan Elektrolitik Bakır,Metal,TOSB_Otomotiv,40.786829,29.523361
+F_004,Polisan Kansai Boya Sanayi,Kimya,GEBKIM_Kimya,40.842896,29.455372
+F_005,Mutlu Akü ve Malzemeleri,Metal,TOSB_Otomotiv,40.819653,29.438798
+F_006,Tosyalı Toyo Çelik A.Ş.,Metal,TOSB_Otomotiv,40.802683,29.41674
+F_007,Dyo Boya Fabrikaları,Kimya,GEBKIM_Kimya,40.78921,29.511607
+F_008,Kent Gıda (Mondelez Türkiye),Gıda,GOSB_Karma,40.826375,29.446064
+F_009,Namet Gıda Sanayi,Gıda,GOSB_Karma,40.816936,29.4372
+F_010,Autoliv Emniyet Sistemleri,Metal,TOSB_Otomotiv,40.80046,29.410114
+F_011,BOSCH Sanayi ve Ticaret,Metal,TOSB_Otomotiv,40.795328,29.52342
+F_012,Unilever Sanayi A.Ş.,Kimya,GOSB_Karma,40.835338,29.440027
+F_013,Aroma Meyve Suları,Gıda,GOSB_Karma,40.819278,29.435776
+F_014,Flormar Kozmetik,Kimya,GOSB_Karma,40.799245,29.42263
+F_015,Farplas Otomotiv A.Ş.,Metal,TOSB_Otomotiv,40.784997,29.522958
+F_016,Jotun Boya Sanayi,Kimya,GEBKIM_Kimya,40.831991,29.462966
+F_017,Assan Alüminyum,Metal,TOSB_Otomotiv,40.821933,29.427596
+F_018,Betek Boya (Filli Boya),Kimya,GEBKIM_Kimya,40.809113,29.411454
+F_019,Ülker Bisküvi Sanayi,Gıda,GOSB_Karma,40.789044,29.511282
+F_020,Yıldız Entegre,Kimya,GOSB_Karma,40.828359,29.451378
+F_021,Anadolu Alüminyum Profil A.Ş.,Metal,GEBKIM_Kimya,40.825692,29.4362
+F_022,Marmara Endüstriyel Boya A.Ş.,Kimya,GOSB_Karma,40.804422,29.417892
+F_023,Ova Döküm Makina A.Ş.,Metal,GOSB_Karma,40.780607,29.519961
+F_024,Marmara Poliüretan Sistemleri A.Ş.,Kimya,GOSB_Karma,40.832697,29.4574
+F_025,Marmara Meşrubat Sanayi A.Ş.,Gıda,GOSB_Karma,40.823718,29.422659
+F_026,Kocaeli Poliüretan Sistemleri A.Ş.,Kimya,TOSB_Otomotiv,40.80662,29.417304
+F_027,Doğu Marmara Otomotiv Parça A.Ş.,Metal,TOSB_Otomotiv,40.784615,29.529282
+F_028,Körfez Döküm Makina A.Ş.,Metal,GOSB_Karma,40.840155,29.456519
+F_029,Ova Döküm Makina A.Ş.,Metal,GEBKIM_Kimya,40.817804,29.432836
+F_030,Kocaeli Otomotiv Parça A.Ş.,Metal,GOSB_Karma,40.806656,29.426829
+F_031,Kocaeli Endüstriyel Unlu Mamüller A.Ş.,Gıda,GOSB_Karma,40.785604,29.5237
+F_032,Anadolu Otomotiv Parça A.Ş.,Metal,GOSB_Karma,40.829468,29.441627
+F_033,Marmara Tarım ve Süt Ürünleri A.Ş.,Gıda,TOSB_Otomotiv,40.826063,29.444494
+F_034,Ova Endüstriyel Unlu Mamüller A.Ş.,Gıda,GEBKIM_Kimya,40.80464,29.427025
+F_035,Anadolu Otomotiv Parça A.Ş.,Metal,GEBKIM_Kimya,40.789808,29.520484
+F_036,Doğu Marmara Döküm Makina A.Ş.,Metal,TOSB_Otomotiv,40.836807,29.460766
+F_037,Marmara Otomotiv Parça A.Ş.,Metal,TOSB_Otomotiv,40.821821,29.445953
+F_038,Zirve Döküm Makina A.Ş.,Metal,GOSB_Karma,40.791901,29.425753
+F_039,Zirve Endüstriyel Boya A.Ş.,Kimya,GOSB_Karma,40.788435,29.522907
+F_040,Zirve Polimer Sanayi A.Ş.,Kimya,GEBKIM_Kimya,40.835459,29.436087
+F_041,Marmara Döküm Makina A.Ş.,Metal,TOSB_Otomotiv,40.820902,29.4375
+F_042,Körfez Otomotiv Parça A.Ş.,Metal,GEBKIM_Kimya,40.812389,29.416372
+F_043,Gebze İleri Döküm Makina A.Ş.,Metal,GEBKIM_Kimya,40.783958,29.521488
+F_044,Doğu Marmara Endüstriyel Unlu Mamüller A.Ş.,Gıda,GEBKIM_Kimya,40.839577,29.452301
+F_045,Anadolu Endüstriyel Tekstil A.Ş.,Tekstil,GEBKIM_Kimya,40.819351,29.438593
+F_046,Kocaeli Meşrubat Sanayi A.Ş.,Gıda,GOSB_Karma,40.805485,29.426781
+F_047,Zirve Poliüretan Sistemleri A.Ş.,Kimya,GEBKIM_Kimya,40.78449,29.522706
+F_048,Zirve Alüminyum Profil A.Ş.,Metal,TOSB_Otomotiv,40.833039,29.439755
+F_049,Marmara Otomotiv Parça A.Ş.,Metal,TOSB_Otomotiv,40.823481,29.436827
+F_050,Marmara Endüstriyel Boya A.Ş.,Kimya,GOSB_Karma,40.805026,29.418358
+F_051,Zirve Otomotiv Parça A.Ş.,Metal,GOSB_Karma,40.780923,29.522055
+F_052,Doğu Marmara Polimer Sanayi A.Ş.,Kimya,GOSB_Karma,40.833286,29.444384
+F_053,Doğu Marmara Plastik ve Ambalaj A.Ş.,Kimya,GEBKIM_Kimya,40.821194,29.437828
+F_054,Körfez Endüstriyel Boya A.Ş.,Kimya,GEBKIM_Kimya,40.814431,29.421222
+F_055,Doğu Marmara Otomotiv Parça A.Ş.,Metal,GEBKIM_Kimya,40.789288,29.524479
+F_056,Ova Poliüretan Sistemleri A.Ş.,Kimya,GOSB_Karma,40.825406,29.449814
+F_057,Marmara Otomotiv Parça A.Ş.,Metal,GOSB_Karma,40.822301,29.452243
+F_058,Zirve Kimyevi Maddeler A.Ş.,Kimya,TOSB_Otomotiv,40.804038,29.422111
+F_059,Marmara Plastik ve Ambalaj A.Ş.,Kimya,GEBKIM_Kimya,40.787826,29.516819
+F_060,Gebze İleri Otomotiv Parça A.Ş.,Metal,GEBKIM_Kimya,40.840714,29.455264
+F_061,Marmara Endüstriyel Boya A.Ş.,Kimya,TOSB_Otomotiv,40.825955,29.428634
+F_062,Ova Otomotiv Parça A.Ş.,Metal,GEBKIM_Kimya,40.812014,29.410187
+F_063,Gebze İleri Otomotiv Parça A.Ş.,Metal,GOSB_Karma,40.790934,29.540333
+F_064,Kocaeli Alüminyum Profil A.Ş.,Metal,GOSB_Karma,40.830047,29.446036
+F_065,Ova Endüstriyel Boya A.Ş.,Kimya,TOSB_Otomotiv,40.822498,29.431476
+F_066,Gebze İleri Çelik Boru A.Ş.,Metal,GOSB_Karma,40.797247,29.42048
+F_067,Gebze İleri Döküm Makina A.Ş.,Metal,GOSB_Karma,40.782688,29.528315
+F_068,Zirve Polimer Sanayi A.Ş.,Kimya,GEBKIM_Kimya,40.830403,29.46085
+F_069,Kocaeli Polimer Sanayi A.Ş.,Kimya,GOSB_Karma,40.818084,29.432746
+F_070,Doğu Marmara Döküm Makina A.Ş.,Metal,GEBKIM_Kimya,40.809068,29.411384
+F_071,Zirve Kalıp Sanayi A.Ş.,Metal,GOSB_Karma,40.789137,29.53415
+F_072,Gebze İleri Kimyevi Maddeler A.Ş.,Kimya,GEBKIM_Kimya,40.826963,29.451292
+F_073,Gebze İleri Otomotiv Parça A.Ş.,Metal,TOSB_Otomotiv,40.823299,29.440473
+F_074,Zirve Kimyevi Maddeler A.Ş.,Kimya,TOSB_Otomotiv,40.798815,29.410757
+F_075,Anadolu Endüstriyel Unlu Mamüller A.Ş.,Gıda,GOSB_Karma,40.79061,29.527079
+F_076,Kocaeli Endüstriyel Boya A.Ş.,Kimya,GEBKIM_Kimya,40.836252,29.452425
+F_077,Kocaeli Kalıp Sanayi A.Ş.,Metal,GEBKIM_Kimya,40.8186,29.436626
+F_078,Ova Plastik ve Ambalaj A.Ş.,Kimya,GEBKIM_Kimya,40.806465,29.415
+F_079,Gebze İleri Otomotiv Parça A.Ş.,Metal,TOSB_Otomotiv,40.797329,29.528317
+F_080,Körfez Kalıp Sanayi A.Ş.,Metal,GOSB_Karma,40.829043,29.454596
+F_081,Marmara Otomotiv Parça A.Ş.,Metal,GOSB_Karma,40.817127,29.44051
+F_082,Zirve Kalıp Sanayi A.Ş.,Metal,GOSB_Karma,40.810793,29.414255
+F_083,Doğu Marmara Döküm Makina A.Ş.,Metal,GOSB_Karma,40.792817,29.527889
+F_084,Körfez Otomotiv Parça A.Ş.,Metal,GOSB_Karma,40.83911,29.463278
+F_085,Ova Endüstriyel Tekstil A.Ş.,Tekstil,GOSB_Karma,40.820773,29.429724
+F_086,Anadolu Döküm Makina A.Ş.,Metal,GEBKIM_Kimya,40.800552,29.414289
+F_087,Gebze İleri Gıda Paketleme A.Ş.,Gıda,GEBKIM_Kimya,40.787614,29.527388
+F_088,Körfez Gıda Paketleme A.Ş.,Gıda,TOSB_Otomotiv,40.836383,29.45579
+F_089,Doğu Marmara Tarım ve Süt Ürünleri A.Ş.,Gıda,TOSB_Otomotiv,40.822065,29.445175
+F_090,Kocaeli Kalıp Sanayi A.Ş.,Metal,TOSB_Otomotiv,40.803677,29.439041
+F_091,Marmara Tarım ve Süt Ürünleri A.Ş.,Gıda,TOSB_Otomotiv,40.791128,29.519
+F_092,Ova Otomotiv Parça A.Ş.,Metal,TOSB_Otomotiv,40.829646,29.453377
+F_093,Gebze İleri Endüstriyel Boya A.Ş.,Kimya,TOSB_Otomotiv,40.820883,29.439998
+F_094,Anadolu Plastik ve Ambalaj A.Ş.,Kimya,GOSB_Karma,40.807366,29.41949
+F_095,Kocaeli Kimyevi Maddeler A.Ş.,Kimya,GEBKIM_Kimya,40.783766,29.514396
+F_096,Kocaeli Endüstriyel Tekstil A.Ş.,Tekstil,GOSB_Karma,40.832767,29.455995
+F_097,Marmara Döküm Makina A.Ş.,Metal,GEBKIM_Kimya,40.82307,29.42628
+F_098,Körfez Endüstriyel Boya A.Ş.,Kimya,GOSB_Karma,40.805866,29.422697
+F_099,Anadolu Alüminyum Profil A.Ş.,Metal,TOSB_Otomotiv,40.783581,29.526076
+F_100,Kocaeli Döküm Makina A.Ş.,Metal,TOSB_Otomotiv,40.835291,29.441999
